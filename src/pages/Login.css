@@ -1,0 +1,21 @@
+
+#loginform{
+
+    width: 400px;
+    height: 300px;
+    margin:auto;
+    margin-top: 20%;
+    border: 1px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.centerItem{
+width: 200px;
+margin-left: 100px;
+margin-top: 20px;
+}
+
